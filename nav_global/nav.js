@@ -3,7 +3,7 @@ class NavBar extends HTMLElement{
         super();
 
         this.home = '/spill/';
-        this.about = '../about';
+        this.about = '../about/';
         this.blog = '../404.html" rel="nofollow';
         this.proj = 'https://www.instagram.com/spill.16?igsh=dXhpdHlwMm5hdWly" rel="nofollow';
         this.desHome = '../design/" rel="nofollow';
