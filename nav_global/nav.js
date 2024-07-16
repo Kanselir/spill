@@ -2,7 +2,7 @@ class NavBar extends HTMLElement{
     constructor() {
         super();
 
-        this.home = '../index.html';
+        this.home = '/spill/';
         this.about = '../about';
         this.blog = '../404.html" rel="nofollow';
         this.proj = 'https://www.instagram.com/spill.16?igsh=dXhpdHlwMm5hdWly" rel="nofollow';
