@@ -3,11 +3,11 @@ class NavBar extends HTMLElement{
         super();
 
         this.home = '';
-        this.about = 'about';
+        this.about = '/spill/about';
         this.blog = '404.html" rel="nofollow';
         this.proj = 'https://www.instagram.com/spill.16?igsh=dXhpdHlwMm5hdWly" rel="nofollow';
-        this.desHome = 'design/" rel="nofollow';
-        this.progHome = 'program/" rel="nofollow'; // rel nofollow added cause the page is still on working
+        this.desHome = '/spill/design/" rel="nofollow';
+        this.progHome = '/spill/program/" rel="nofollow'; // rel nofollow added cause the page is still on working
 
         this.innerHTML = 
         `
