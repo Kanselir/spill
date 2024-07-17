@@ -6,7 +6,7 @@ class NavBar extends HTMLElement{
         this.about = '/spill/about/';
         this.blog = '/spill/404.html';
         this.proj = 'https://www.instagram.com/spill.16?igsh=dXhpdHlwMm5hdWly" rel="nofollow';
-        this.desHome = '/spill/spill/design/';
+        this.desHome = '/spill/design/';
         this.progHome = '/spill/program/'; // rel nofollow added cause the page is still on working
 
         this.innerHTML = 
