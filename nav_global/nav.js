@@ -4,9 +4,9 @@ class NavBar extends HTMLElement{
 
         this.home = '/spill/index.html';
         this.about = '/spill/about/';
-        this.blog = '../404.html" rel="nofollow';
+        this.blog = '/spill/404.html" rel="nofollow';
         this.proj = 'https://www.instagram.com/spill.16?igsh=dXhpdHlwMm5hdWly" rel="nofollow';
-        this.desHome = '/spill/design/" rel="nofollow';
+        this.desHome = '/spill/spill/design/" rel="nofollow';
         this.progHome = '/spill/program/" rel="nofollow'; // rel nofollow added cause the page is still on working
 
         this.innerHTML = 
